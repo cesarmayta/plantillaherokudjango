@@ -1,0 +1,1 @@
+web: gunicorn lab08.wsgi --log-file -
